@@ -1,2 +1,3 @@
 # FastAI
-#repo for jupyter notebooks used in FastAI course
+
+## Repo for files used in fast.ai course
