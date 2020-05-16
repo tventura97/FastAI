@@ -1,3 +1,1 @@
-# FastAI
-
-## Repo for files used in fast.ai course
+# FastAI - Repo for files used in fast.ai course
